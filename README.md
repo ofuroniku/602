@@ -2,8 +2,8 @@
 色々
 
 1. [602](#602)
+   1. [Amazon定期便](#Amazon定期便)
    1. [TODO](#todo)
-      1. [Amazon定期便](#Amazon定期便)
       1. [家賃](#家賃)
       2. [家電](#家電)
       3. [ライフライン](#ライフライン)
@@ -12,13 +12,13 @@
          3. [水道](#水道)
 
 
-## TODO
-
-### Amazon定期便
+## Amazon定期便
 - [トイレットペーパー](https://www.amazon.co.jp/gp/product/B09HQ916JH/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
   - 2ヶ月ごと
 - [ラベルレスお茶](https://www.amazon.co.jp/gp/product/B0CTBRBC7Z/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
   - 1ヶ月ごと
+
+## TODO
 
 ### 家賃
 
