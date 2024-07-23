@@ -15,10 +15,10 @@
 ## TODO
 
 ### Amazon定期便
-- トイレットペーパー
-- ティッシュ
-- ゴミ袋
-- ラベルレスお茶
+- [トイレットペーパー](https://www.amazon.co.jp/gp/product/B09HQ916JH/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+  - 2ヶ月ごと
+- [ラベルレスお茶](https://www.amazon.co.jp/gp/product/B0CTBRBC7Z/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
+  - 1ヶ月ごと
 
 ### 家賃
 
